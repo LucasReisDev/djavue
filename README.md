@@ -1,7 +1,7 @@
 # Teste Djavue
 
 ## Descrição
-Rota /dashboard possui uma pagina que consegue filtar os dados das vendas, retorna dados das vendas, podendo gerar relatorios em pdf e excel.
+Rota /dashboard possui 1 campo de busca, filtrando por nome de vendedor, cliente e data da venda. Apos a abordagem, tem o botao para "filtrar" que ira renderizar os dados das vendas existentes baseado em no campo de filtro, possui tambem 2 botoes para gerar os relatorios das vendas em pdf ou em excel.
 
 ## Pré-requisitos
 - Python 3.11
